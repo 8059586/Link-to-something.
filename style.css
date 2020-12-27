@@ -1,0 +1,9 @@
+h1 {
+    color: brown;
+}
+
+.name{
+    background-color:aqua;
+    display: flex;
+    justify-content: space-between;
+}
